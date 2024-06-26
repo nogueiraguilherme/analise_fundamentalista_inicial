@@ -7,4 +7,4 @@ As empresas listadas em bolsa fazem reuniões periódicas, onde dados financeiro
 Esta não é uma análise profunda e dedicada à uma empresa em específico, é uma análise voltada para os principais pontos levantados em reunião.
 Serve como **base de estudos** que pode ser adaptado à realidade de outras empresas/análises.
 
-Você pode acessar o código comentado [aqui](https://github.com/nogueiraguilherme/analise_fundamentalista_inicial/blob/main/Análise_Fundamentalista_com_Python.ipynb).
+Você pode acessar o código comentado [aqui](https://github.com/nogueiraguilherme/analise_fundamentalista_inicial/blob/main/Analise_Fundamentalista_com_Python.ipynb).
